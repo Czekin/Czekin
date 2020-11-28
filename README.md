@@ -4,4 +4,4 @@
 
 📌 Working on [Litty](https://github.com/LittyProject) Project.
 
-⚙ Side project - WantMC Discord bot.
+⚙ Side project - WaveMC.
