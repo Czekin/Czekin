@@ -43,7 +43,7 @@
     <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
-    - <a href="https://github.com/LittyProject">Litty</a>
-    - <a href="https://github.com/WaveMCPL">WaveMC</a>
+    - <a href="https://github.com/LittyProject">Litty</a><br>
+    - <a href="https://github.com/WaveMCPL">WaveMC</a><br>
         • <a href="https://github.com/WaveMCPL/pvpcorner-discordbot">WaveMC Discord Bot</a>
 </div>
