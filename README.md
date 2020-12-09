@@ -1,4 +1,9 @@
 <div align="center">
+    <style>
+        .site-main table.no-border td {
+            border: none;
+        }
+    </style>
     <h2> Hello there 👋, I'm Czekin </h2>
     <a href="https://twitter.com/czekin_">
         <img alt="Czekin's Twitter", width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
@@ -43,6 +48,19 @@
     <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
+    <table class="no-border">
+        <tr>
+            <th>Project Name</th>
+            <th>Project Link</th>
+            <th>Project Quick Info</th>
+        </tr>
+        <tr>
+            <td>Litty</td>
+            <td>test</td>
+            <td>test</td>
+        </tr>
+    </table>
+    <hr>
     <div align="left">
         <div>
         - <a href="https://github.com/LittyProject">Litty</a>
