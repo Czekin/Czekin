@@ -33,7 +33,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Czekin&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czekin&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czekin&hide_border=true&theme=dark">
     <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
