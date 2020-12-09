@@ -1,7 +1,10 @@
 <div align="center">
     <h2> Hello there 👋, I'm Czekin </h2>
     <a href="https://twitter.com/czekin_">
-        <img alt="Scythe's Twitter", width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
+        <img alt="Czekin's Twitter", width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
+    </a>
+        <a href="https://www.twitch.tv/czekin">
+        <img alt="Czekin's Twitter", width="25px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-twitch.png?w=585&scale=down">
     </a>
     <br>
     Hi, I'm Czekin, a passionate self-taught developer from the Poland.
