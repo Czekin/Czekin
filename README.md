@@ -7,14 +7,13 @@
     Hi, I'm Czekin, a passionate self-taught developer from the Poland.
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>Discord Bot</strong><br>
+    - 🔭 I’m currently working on <strong>Fun Game in Discord Bot</strong><br>
     - 🌱 I’m currently learning <strong>VueJS</strong><br>
-    - 📫 Contact me <strong>on Discord Czekin#8571</strong><br>
     <hr>
     <h4> Contact Me </h4>
-    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i>- Czekin#8571(<strong>recommended</strong>)
+    <img alt="Czekin's Discord Nickname", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Czekin#8571 (<strong>recommended</strong>)
     <br>
-    📫 <i>Email</i> - soon tm
+    📫 <i>Email</i> - Soon TM
     <br>
     <img alt="Czekin's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> - <a href="https://twitter.com/czekin_">Czekin_</a>
     <hr>
