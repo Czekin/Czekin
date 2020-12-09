@@ -26,7 +26,7 @@
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg" alt="NodeJS">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg" alt="HTML">
     <img width="25px" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png" alt="CSS">
-    <img width="25px" src="https://natqe.gallerycdn.vsassets.io/extensions/natqe/scss-generator/1.2.9/1550339585248/Microsoft.VisualStudio.Services.Icons.Default" alt="SCSS">
+    <img width="25px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/full/scsslogo.png" alt="SCSS">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="VueJS">
     <img width="25px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="VuetifyJS">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/cpp.svg" alt="C++">
@@ -43,7 +43,7 @@
     <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
-    <div>
+    <div align="left">
         <div>
         - <a href="https://github.com/LittyProject">Litty</a>
         </div>
