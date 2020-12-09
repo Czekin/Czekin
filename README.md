@@ -25,7 +25,9 @@
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg">
+    <img width="25px" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
+    <img width="25px" src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/cpp.svg">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
     <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png">
