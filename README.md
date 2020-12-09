@@ -54,12 +54,12 @@
             <th>Project Quick Info</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/LittyProject">Litty</a></td>
-            <td>Old Voice & Text Chat Project</td>
-        </tr>
-        <tr>
             <td><a href="https://github.com/WaveMCPL">WaveMC</a>, <a href="https://github.com/WaveMCPL/pvpcorner-discordbot">WaveMC Discord Bot</a></td>
             <td>Minecraft Server</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LittyProject">Litty</a></td>
+            <td>Old Voice & Text Chat Project</td>
         </tr>
     </table>
 </div>
