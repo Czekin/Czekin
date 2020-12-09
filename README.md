@@ -48,25 +48,18 @@
     <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
-    <table class="no-border">
+    <table>
         <tr>
             <th>Project Name</th>
-            <th>Project Link</th>
             <th>Project Quick Info</th>
         </tr>
         <tr>
-            <td>Litty</td>
-            <td>test</td>
-            <td>test</td>
+            <td><a href="https://github.com/LittyProject">Litty</a></td>
+            <td>Old Voice & Text Chat Project</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/WaveMCPL">WaveMC</a>, <a href="https://github.com/WaveMCPL/pvpcorner-discordbot">WaveMC Discord Bot</a></td>
+            <td>Minecraft Server</td>
         </tr>
     </table>
-    <hr>
-    <div align="left">
-        <div>
-        - <a href="https://github.com/LittyProject">Litty</a>
-        </div>
-        <div>
-        - <a href="https://github.com/WaveMCPL">WaveMC</a>, <a href="https://github.com/WaveMCPL/pvpcorner-discordbot">(WaveMC Discord Bot)</a>
-        </div>
-    </div>
 </div>
