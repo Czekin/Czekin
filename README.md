@@ -48,7 +48,7 @@
         - <a href="https://github.com/LittyProject">Litty</a>
         </div>
         <div>
-        - <a href="https://github.com/WaveMCPL">WaveMC</a> <a href="https://github.com/WaveMCPL/pvpcorner-discordbot">(WaveMC Discord Bot)</a>
+        - <a href="https://github.com/WaveMCPL">WaveMC</a>, <a href="https://github.com/WaveMCPL/pvpcorner-discordbot">(WaveMC Discord Bot)</a>
         </div>
     </div>
 </div>
