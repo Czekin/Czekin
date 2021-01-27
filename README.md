@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hello there 👋, I'm Czekin </h2>
+    <h2> Hi there 👋, I'm Czekin </h2>
     <a href="https://twitter.com/czekin_">
         <img alt="Czekin's Twitter", width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
     </a>
