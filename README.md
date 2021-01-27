@@ -15,7 +15,7 @@
     <hr>
     <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>YouTube Downloader</strong><br>
-    - 🌱 I’m currently learning <strong>VueJS</strong><br>
+    - 🌱 I’m currently learning <strong>VueJS and VuetifyJS</strong><br>
     <hr>
     <h4> Contact </h4>
     <img alt="Czekin's Discord Nickname", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Czekin#8571 (<strong>recommended</strong>)
