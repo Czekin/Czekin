@@ -14,7 +14,7 @@
     Hi, I'm Czekin, a passionate self-taught developer from the Poland.
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>YouTube Downloader</strong><br>
+    - 🔭 I’m currently working on <strong>IslandArea Projects</strong><br>
     - 🌱 I’m currently learning <strong>VueJS and VuetifyJS</strong><br>
     <hr>
     <h4> Contact </h4>
