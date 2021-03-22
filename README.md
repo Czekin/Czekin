@@ -20,7 +20,7 @@
     <h4> Contact </h4>
     <img alt="Czekin's Discord Nickname", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Czekin#8571
     <br>
-    📫 <i>Email</i> - <code>github@czekin.hub.pl</code> (<strong>recommended</strong>)
+    📫 <i>Email</i> - <code>czekin@github.hub.pl</code> (<strong>recommended</strong>)
     <br>
     <img alt="Czekin's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> - <a href="https://twitter.com/czekin_">Czekin_</a>
     <hr>
