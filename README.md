@@ -14,8 +14,8 @@
     Hi, I'm Czekin, a passionate self-taught developer from the Poland.
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>IslandArea Projects</strong><br>
-    - 🌱 I’m currently learning <strong>VueJS and VuetifyJS</strong><br>
+    - 🔭 I’m currently working on <strong>Lua fun projects</strong><br>
+    - 🌱 I’m currently learning <strong>Lua</strong><br>
     <hr>
     <h4> Contact </h4>
     <img alt="Czekin's Discord Nickname", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Czekin#8571
