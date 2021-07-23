@@ -63,8 +63,8 @@
             <td>Discord Timestamp Converter</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/LittyProject">Litty</a></td>
-            <td>Voice & Text Chat Project</td>
+            <td><a href="https://github.com/Czekin/macro-clicker">macro-clicker</a></td>
+            <td>Basic mouse clicker</td>
         </tr>
     </table>
 </div>
