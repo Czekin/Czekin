@@ -41,6 +41,7 @@
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg" alt="Visual Studio Code">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/intellij.svg" alt="IntelliJ">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg" alt="Git">
+    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua">
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Czekin&show_icons=true&hide_border=true&theme=dark&count_private=true">
