@@ -1,3 +1,10 @@
+<!--
+
+Hi there!
+Looking for some code? Cool! You can copy something if you want ;P
+Code maybe is not great but... works! :D
+
+-->
 <div align="center">
     <h2> Hi there 👋, I'm Czekin </h2>
     <a href="https://twitter.com/czekin_">
