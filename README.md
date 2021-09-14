@@ -37,7 +37,7 @@ Code maybe is not great but... works! :D
     <img width="25px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="TypeScript">
     <img width="25px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS">
-    <img width="25px" src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="HTML">
+    <img width="25px" src="https://pokhrelhari1.github.io/degndev/extra/media/html.png" alt="HTML">
     <img width="25px" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png" alt="CSS">
     <img width="25px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/full/scsslogo.png" alt="SCSS">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="VueJS">
