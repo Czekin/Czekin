@@ -25,7 +25,7 @@ Code maybe is not great but... works! :D
     - 🌱 I’m currently learning <strong>Lua</strong><br>
     <hr>
     <h4> Contact </h4>
-    <img alt="Czekin's Discord Nickname", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Czekin#8571
+    <img alt="Czekin's Discord Nickname", width="15px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"> <i>Discord</i> - Czekin#8571
     <br>
     📫 <i>Email</i> - <code>czekin@github.hub.pl</code> (<strong>recommended</strong>)
     <br>
