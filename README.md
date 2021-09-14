@@ -34,20 +34,20 @@ Code maybe is not great but... works! :D
     🔗 <i>Website</i> - https://mythical-horizon.herokuapp.com -->
     <hr>
     <h4> <i> Programming Languages, Tools & GitHub Stats </i> </h4>
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg" alt="JavaScript">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg" alt="TypeScript">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg" alt="NodeJS">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg" alt="HTML">
+    <img width="25px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript">
+    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" alt="TypeScript">
+    <img width="25px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS">
+    <img width="25px" src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="HTML">
     <img width="25px" src="https://juststickers.in/wp-content/uploads/2014/05/CSS3-Mark-Shape-Cut.png" alt="CSS">
     <img width="25px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/full/scsslogo.png" alt="SCSS">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="VueJS">
     <img width="25px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="VuetifyJS">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/cpp.svg" alt="C++">
+    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java">
     <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="ElectronJS">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg" alt="Visual Studio Code">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/intellij.svg" alt="IntelliJ">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg" alt="Git">
+    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code">
+    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ">
+    <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git">
     <img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Lua">
     <br>
     <br>
