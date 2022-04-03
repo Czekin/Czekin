@@ -21,8 +21,8 @@ Code maybe is not great but... works! :D
     Hi, I'm Czekin, a passionate self-taught developer from the Poland.
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>Lua fun projects</strong><br>
-    - 🌱 I’m currently learning <strong>Lua</strong><br>
+    - 🔭 I’m currently working on <strong>Genesis-Zone-Minecraft Project</strong><br>
+    - 🌱 I’m currently learning <strong>nothing 🙁</strong><br>
     <hr>
     <h4> Contact </h4>
     <img alt="Czekin's Discord Nickname", width="15px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"> <i>Discord</i> - Czekin#8571
