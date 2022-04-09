@@ -10,9 +10,6 @@ Code maybe is not great but... works! :D
     <a href="https://twitter.com/czekin_">
         <img alt="Czekin's Twitter", width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
     </a>
-    <a href="https://www.twitch.tv/czekin">
-        <img alt="Czekin's Twitch", width="25px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-twitch.png?w=585&scale=down">
-    </a>
     <a href="https://www.reddit.com/user/czekin">
         <img alt="Czekin's Reddit", width="25px" src="https://miro.medium.com/max/720/1*mQz1eSo1ZkL-Rufb5Xfrqw.png">
     </a>
