@@ -26,6 +26,8 @@ Code maybe is not great but... works! :D
     📫 <i>Email</i> - <code>czekin@github.hub.pl</code> (<strong>recommended</strong>)
     <br>
     <img alt="Czekin's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> - <a href="https://twitter.com/czekin_">Czekin_</a>
+    <br>
+    <a href="https://discord.com/users/189083017686417410"><img src="https://lanyard.cnrad.dev/api/189083017686417410" alt="Discord Card"></a>
 <!--     <br>
     🔗 <i>Website</i> - https://mythical-horizon.herokuapp.com -->
     <hr>
@@ -50,8 +52,6 @@ Code maybe is not great but... works! :D
     <img src="https://github-readme-stats.vercel.app/api?username=Czekin&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czekin&hide_border=true&theme=dark&count_private=true">
-    <br>
-    <a href="https://discord.com/users/189083017686417410"><img src="https://lanyard.cnrad.dev/api/189083017686417410" alt="Discord Card"></a>
     <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
