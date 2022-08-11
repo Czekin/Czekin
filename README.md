@@ -51,6 +51,8 @@ Code maybe is not great but... works! :D
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czekin&hide_border=true&theme=dark&count_private=true">
     <br>
+    <a href="https://discord.com/users/189083017686417410"><img src="https://lanyard.cnrad.dev/api/189083017686417410" alt="Discord Card"></a>
+    <br>
     <hr>
     <h4> <i> Current Projects </i> </h4>
     <table>
