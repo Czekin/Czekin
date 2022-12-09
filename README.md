@@ -52,25 +52,4 @@ Code maybe is not great but... works.
     <img src="https://github-readme-stats.vercel.app/api?username=Czekin&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czekin&hide_border=true&theme=dark&count_private=true">
-    <br>
-    <hr>
-    <h4> <i> Current Projects </i> </h4>
-    <table>
-        <tr>
-            <th>Project Name</th>
-            <th>Project Quick Info</th>
-<!--        </tr>
-            <tr>
-            <td><a href="https://github.com/IslandArea">IslandArea</a>, <a href="https://github.com/IslandArea/discordbot-open">IslandArea Discord Bot</a></td>
-            <td>Minecraft Server</td>
-        </tr>-->
-        <tr>
-            <td><a href="https://github.com/Czekin/timestampConv">Timestamp Converter</a></td>
-            <td>Discord Timestamp Converter</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Czekin/macro-clicker">macro-clicker</a></td>
-            <td>Basic mouse clicker</td>
-        </tr>
-    </table>
 </div>
