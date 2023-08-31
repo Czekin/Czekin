@@ -17,7 +17,7 @@ Code maybe is not great but... works.
     Hi, I'm Czekin, a passionate self-taught developer from the Poland.
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>Genesis-Zone Discord Bot</strong><br>
+    - 🔭 I’m currently working on <strong>Sylvaria MMORPG</strong><br>
     - 🌱 I’m currently learning <strong>null</strong><br>
     <hr>
     <h4> Contact </h4>
